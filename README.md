@@ -1,6 +1,6 @@
 # Olá, meu nome é Gabriela.👋
 
-Sou estudante de Tecnologia em Banco de Dados na Uninter, apaixonada por desenvolver novos conhecimentos.
+Sou estudante de Tecnologia em Banco de Dados na Uninter, apaixonada por novos conhecimentos.
 
 ### Habilidades
 

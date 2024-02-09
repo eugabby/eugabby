@@ -12,7 +12,7 @@ Sou estudante de Tecnologia em Banco de Dados na Uninter, apaixonada por novos c
 
 ### :woman_technologist: Estou estudando atualmente:
 
-#### ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+#### ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 
